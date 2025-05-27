@@ -25,7 +25,7 @@ The dashboard consists of the following pages:
 ## 📸 Dashboard Snapshots
 
 ### 🏠 Home Page
-![Home Page]()
+![Home Page](./images/home-page.png)
 
 ### 📊 Overview Page
 ![Overview Page](./images/overview.png)
