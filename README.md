@@ -87,7 +87,9 @@ The dashboard consists of the following pages:
   - 💵 Cash – 72%  
   - 💳 Card – 28%  
 
----## 🛠 Tools & Technologies Used
+---
+
+## 🛠 Tools & Technologies Used
 
 - Power BI Desktop – Visual dashboard building  
 - Power Query (M Language) – Data shaping & cleaning  
