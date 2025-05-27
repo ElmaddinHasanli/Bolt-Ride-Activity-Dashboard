@@ -28,13 +28,13 @@ The dashboard consists of the following pages:
 ![Home Page](https://github.com/ElmaddinHasanli/Bolt-Ride-Activity-Dashboard/blob/main/Home%20Page.png)
 
 ### 📊 Overview Page
-![Overview Page](./images/overview.png)
+![Overview Page]([./images/overview.png](https://github.com/ElmaddinHasanli/Bolt-Ride-Activity-Dashboard/blob/main/Overview.png))
 
 ### 📈 Ride Trends Page
-![Ride Trends](./images/ride-trends.png)
+![Ride Trends]([./images/ride-trends.png](https://github.com/ElmaddinHasanli/Bolt-Ride-Activity-Dashboard/blob/main/Usage%20Trends.png))
 
 ### ❌ Cancellations & Patterns Page
-![Cancellation Page](./images/cancellation-patterns.png)
+![Cancellation Page]([./images/cancellation-patterns.png](https://github.com/ElmaddinHasanli/Bolt-Ride-Activity-Dashboard/blob/main/Cancellation%20and%20Ride%20Patterns.png))
 
 ---
 
