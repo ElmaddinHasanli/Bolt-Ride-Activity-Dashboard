@@ -89,6 +89,16 @@ The dashboard consists of the following pages:
 
 ---
 
+## 🔧 Dashboard Features & Interactivity
+
+- 🎛️ **Year Slicer** – Filter visuals by one or more years  
+- 💳 **Payment Method Slicer** – Analyze by card or cash  
+- 🧭 **Bookmark Navigation Buttons** – Smooth page transitions  
+- 🔄 **Reset Filters Button** – Instantly revert to default view  
+- 🧠 **Tooltip Popups** – Hover to see deeper-level info in charts
+
+---
+
 ## 🛠 Tools & Technologies Used
 
 - Power BI Desktop – Visual dashboard building  
@@ -98,16 +108,6 @@ The dashboard consists of the following pages:
 - Canva – Designed animated home page visuals
 - GIPHY – Converted homepage animation to looping GIF format
 - ChatGPT (OpenAI) – Generated Bolt-styled AI car illustration
-
----
-
-## 🔧 Dashboard Features & Interactivity
-
-- 🎛️ **Year Slicer** – Filter visuals by one or more years  
-- 💳 **Payment Method Slicer** – Analyze by card or cash  
-- 🧭 **Bookmark Navigation Buttons** – Smooth page transitions  
-- 🔄 **Reset Filters Button** – Instantly revert to default view  
-- 🧠 **Tooltip Popups** – Hover to see deeper-level info in charts  
 
 ---
 
