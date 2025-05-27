@@ -38,3 +38,92 @@ The dashboard consists of the following pages:
 
 ---
 
+## 📋 Overview Page: Key KPIs
+
+| **KPI**                | **Value** | **Description**                             |
+|------------------------|-----------|---------------------------------------------|
+| Total Orders           | 794       | Number of ride requests                     |
+| Completed Rides        | 589       | Successfully completed rides                |
+| Total Cancellations    | 205       | Cancelled rides                             |
+| Cancellation Rate      | 26%       | % of total orders that were cancelled       |
+| Lifetime Spend (₼)     | 2,037     | Total cost of all rides                     |
+| Avg. Fare per Ride     | 3.46 ₼    | Mean cost per ride                          |
+| Highest Fare           | 14.60 ₼   | Most expensive individual ride              |
+| Avg. Ride Time (min)   | 15.72     | Average ride duration                       |
+| Longest Ride (min)     | 57        | Longest recorded ride                       |
+| Shortest Ride (min)    | 2         | Shortest recorded ride                      |
+| Weekday Activity       | 64%       | Rides during weekdays                       |
+| Weekend Activity       | 36%       | Rides during weekends                       |
+
+---
+## 📈 Ride Trends Insights
+
+- 📅 **Monthly Ride & Spend** – Volume and cost trends across months  
+- 📆 **Weekday vs Weekend Spend** – Spending habits split by day types  
+- ⏰ **Hourly Ride Patterns** – Activity mapped across time and weekdays  
+- 🔁 **Month-over-Month Comparison** – Visualized percentage changes in usage  
+
+---
+
+## ❌ Cancellation & Ride Behavior
+
+### 📉 Cancellation Analytics
+
+- **Monthly Cancellations** – Detect spikes and consistency  
+- **Fail Reasons**:  
+  - Client Cancelled – 69%  
+  - Client Did Not Show – 17%  
+  - Driver Rejected – 15%  
+- **By Day Type**:  
+  - Weekday Fails: 95  
+  - Weekend Fails: 460
+
+### 🚗 Ride & Payment Highlights
+
+- **Top 5 Ride Hours:** 03:00, 11:00, 08:00, 12:00, 10:00  
+- **Highest Ride Costs:** ₼15, ₼13, ₼11, ₼11, ₼10  
+- **Longest Rides:** 57, 55, 48, 47, 44 min  
+- **Payment Distribution:**  
+  - 💵 Cash – 72%  
+  - 💳 Card – 28%  
+
+---## 🛠 Tools & Technologies Used
+
+- Power BI Desktop – Visual dashboard building  
+- Power Query (M Language) – Data shaping & cleaning  
+- DAX – Custom measure creation  
+- Bolt Excel Export – Source ride dataset
+- Canva – Designed animated home page visuals
+- GIPHY – Converted homepage animation to looping GIF format
+- ChatGPT (OpenAI) – Generated Bolt-styled AI car illustration
+
+---
+
+## 🔧 Dashboard Features & Interactivity
+
+- 🎛️ **Year Slicer** – Filter visuals by one or more years  
+- 💳 **Payment Method Slicer** – Analyze by card or cash  
+- 🧭 **Bookmark Navigation Buttons** – Smooth page transitions  
+- 🔄 **Reset Filters Button** – Instantly revert to default view  
+- 🧠 **Tooltip Popups** – Hover to see deeper-level info in charts  
+
+---
+
+## 💼 Real-World Applications
+
+- 🚖 Track personal mobility costs and behavior  
+- 📊 Analyze ride trends by day/time  
+- ❌ Understand when/why cancellations happen  
+- 📈 Build portfolio-grade Power BI dashboards with real data  
+
+---
+
+## 👤 Author
+
+**Elmaddin Hasanli**  
+📍 Baku, Azerbaijan  
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/elmaddin-hasanli-aa1880156?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+---
+
+⭐ *Feel free to fork, adapt, or reuse this dashboard structure for your own data projects!*
