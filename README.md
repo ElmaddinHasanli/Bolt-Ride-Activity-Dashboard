@@ -25,7 +25,7 @@ The dashboard consists of the following pages:
 ## 📸 Dashboard Snapshots
 
 ### 🏠 Home Page
-![Home Page]("C:\Users\elmaddin.hasanov\Downloads\Home Page.png")
+![Home Page]()
 
 ### 📊 Overview Page
 ![Overview Page](./images/overview.png)
