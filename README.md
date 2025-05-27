@@ -17,9 +17,24 @@ This project presents a personal **Power BI dashboard** that analyzes my ride hi
 The dashboard consists of the following pages:
 
 - **🏠 Home** – A visual scene representing the ride journey in Baku  
-- **📊 Overview** –   
-- **📈 Ride Trends** – Monthly, daily, and hourly patterns  
-- **❌ Cancellations & Ride Patterns** – Cancellations, fail reasons, and ride/payment breakdowns  
+- **📊 Overview** – High-level KPIs - total rides, cancellations, spend, average cost, weekday/weekend breakdown etc. Each KPI card has small trend lines embedded in them displaying the change of value over the time period selected
+- **📈 Usage Trends** – Ride and spend trends by month, week, and hour — with MoM growth  
+- **❌ Cancellations & Ride Patterns** – Fail reasons, cancellation timing, payment distribution, and top/longest rides 
+
+---
+## 📸 Dashboard Snapshots
+
+### 🏠 Home Page
+![Home Page]()
+
+### 📊 Overview Page
+![Overview Page](./images/overview.png)
+
+### 📈 Ride Trends Page
+![Ride Trends](./images/ride-trends.png)
+
+### ❌ Cancellations & Patterns Page
+![Cancellation Page](./images/cancellation-patterns.png)
 
 ---
 
