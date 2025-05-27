@@ -25,7 +25,7 @@ The dashboard consists of the following pages:
 ## 📸 Dashboard Snapshots
 
 ### 🏠 Home Page
-![Home Page]()
+![Home Page](https://github.com/ElmaddinHasanli/Bolt-Ride-Activity-Dashboard/blob/main/Home%20Page.png)
 
 ### 📊 Overview Page
 ![Overview Page](./images/overview.png)
